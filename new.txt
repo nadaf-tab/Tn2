@@ -1,0 +1,7 @@
+9) to know the git commit details,
+
+git log
+
+10) to revert to the previous commit id,
+
+git checkout commit_id
